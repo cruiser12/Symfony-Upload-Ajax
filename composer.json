@@ -1,5 +1,5 @@
 {
-    "name": "bnbc/upload-bundle",
+    "name": "cruiser12/upload-bundle",
     "description": "Symfony Upload Ajax Bundle",
     "keywords": ["upload", "ajax", "symfony"],
     "type": "symfony-bundle",
@@ -19,6 +19,5 @@
     },
     "autoload": {
         "psr-0": { "Bnbc\\UploadBundle": "" }
-    },
-    "target-dir": "Bnbc/UploadBundle"
+    }
 }
